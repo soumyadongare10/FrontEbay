@@ -1,0 +1,18 @@
+.header{
+    background-color: rgb(248, 54, 54);
+    color: white;
+    font-size: 10pt;
+    text-align: center;
+    padding: 5px;
+    top:0px;
+    position:relative;
+    
+}
+.opt{
+    position:relative;
+    z-index: 1;
+} 
+
+.navbar-toggler-icon{
+    border-color: lawngreen;
+}

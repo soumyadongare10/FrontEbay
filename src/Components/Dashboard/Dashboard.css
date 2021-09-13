@@ -1,0 +1,34 @@
+.bg{
+    width: 100%;
+}
+.img-im{
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    width: 100vh;
+    height: 100%;
+}
+/* .next-half{
+    display: in;
+    margin-left: auto;
+    margin-right: 0;
+    width: 50%;
+} */
+.halfbg{
+    background-color: rgb(90, 131, 245); 
+    border: 3px solid rgb(37, 34, 245);
+    border-radius: 10px;
+    transition: 0.3s;
+ }
+ 
+ .halfbg:hover{
+ background-color: rgb(22, 236, 118);
+ }
+ 
+ .card-title{
+     font-size:x-large;
+ }
+ 
+ .card-text{
+     font-size: large;
+ }
